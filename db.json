@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Syed",
+      "lastName": "Ashif",
+      "email": "syedashif71@gmail.com",
+      "dob": "2002-01-06T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Sierra",
+      "experience": 1,
+      "package": 3,
+      "id": 2
+    },
+    {
+      "firstName": "Rio",
+      "lastName": "Raj",
+      "email": "raj123@gmail.com",
+      "dob": "2007-02-04T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "CTS",
+      "experience": 3,
+      "package": 3,
+      "id": 3
+    },
+    {
+      "firstName": "Partha",
+      "lastName": "Sarathy",
+      "email": "parth123@gmail.com",
+      "dob": "2002-01-06T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Gradute",
+      "company": "google",
+      "experience": 3,
+      "package": 20,
+      "id": 4
+    }
+  ]
+}
